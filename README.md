@@ -56,7 +56,7 @@ end_lng	- Longitude of ending station
 
 member_casual - Types of members: Member or Casual
 
-### Process
+### Process and Analyze
 BigQuery has been employed to efficiently handle the data processing task, Microsoft Excel is unable to accomplish due to its limitations with large datasets.
 
 1. Combine Data: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Combine%20data
@@ -66,10 +66,13 @@ BigQuery has been employed to efficiently handle the data processing task, Micro
    
 For more details and results, you may refer to the links above.
 
-# Analyze and Share
+# Share
 To answer the question "How do annual members and casual riders use Cyclistic bikes differently?" that mentioned earlier, I have prepared 5 dashboards to answer this question.
 
+Firstly, this visualization shows bikes types used in 2023 by two groups of users.
+
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/aeb6d919-e1b5-4bc6-8a89-f8dd2c40a946)
+The outcome reveals that there are currently 2,738,451 active members, representing nearly 64.53% of the total user base, while the remaining 35.47% consists of casual riders.
 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/5a3b0847-0f7b-4ccf-b432-2a66cc644924)
 
@@ -79,9 +82,6 @@ To answer the question "How do annual members and casual riders use Cyclistic bi
 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/eb256024-39e7-48b6-b9b4-b96e5685b09a)
 
-
-
-# Some Insights of the report
 
 
 
