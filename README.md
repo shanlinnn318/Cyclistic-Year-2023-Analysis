@@ -40,8 +40,15 @@ end_lng	- Longitude of ending station
 member_casual - Types of members: Member or Casual
 
 
-### Steps followed 
-- Step 1 
+##  Steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act
+
+### 1. Ask
+Define the problem: Design a new marketing strategy to maximize the number of annual memberships, thus leading the way for the company's future success
+Stakeholders: - 
+i. Lily Moreno: The director of marketing and manager
+ii. Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data
+iii. Cyclistic executive team: The detail-oriented executive team that decide whether to approve the recommended marketing program
+
   
  
 # Snapshot of Dashboard (Tableau)
