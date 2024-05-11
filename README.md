@@ -17,9 +17,9 @@ ride_id - This combination consists of 14 characters including numbers and lette
 
 rideable_type - Types of bikes: electric_bike, classic_bike and docked_bike
 
-started_at - In format of MM/DD/YYYY HOUR:MINUTES:SECONDS AM/PM. Example: 12/2/2023  11:12:51 PM
+started_at - In format of MM/DD/YYYY HOUR:MINUTES:SECONDS AM/PM
 
-ended_at - In format of MM/DD/YYYY HOUR:MINUTES:SECONDS AM/PM. Example: 12/4/2023  9:35:56 AM
+ended_at - In format of MM/DD/YYYY HOUR:MINUTES:SECONDS AM/PM
 
 start_station_name - Name of starting station
 
