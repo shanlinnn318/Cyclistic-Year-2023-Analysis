@@ -45,6 +45,16 @@ member_casual - Types of members: Member or Casual
   
  
 # Snapshot of Dashboard (Tableau)
+![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/aeb6d919-e1b5-4bc6-8a89-f8dd2c40a946)
+
+![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/5a3b0847-0f7b-4ccf-b432-2a66cc644924)
+
+![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/a043c5e8-d93e-4b58-8b40-aac4e6a2711a)
+
+![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/e1751338-cce4-4ba2-9ff5-9407780c112f)
+
+![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/eb256024-39e7-48b6-b9b4-b96e5685b09a)
+
 
 
 # Some Insights of the report
