@@ -4,14 +4,31 @@ Google Analytics Case study: How does a bike-share navigate speedy success? The 
 ## Dashboard Link
 https://public.tableau.com/views/CyclisticYear2023Analysis/BikesTypesin2023?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
-## Dataset Link
+
+##  Steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act
+
+### Ask
+#### 1. Define the problem: Design a new marketing strategy to maximize the number of annual memberships, thus leading the way for the company's future success
+
+#### 2. Stakeholders: - 
+i. Lily Moreno: The director of marketing and manager
+ii. Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data
+iii. Cyclistic executive team: The detail-oriented executive team that decide whether to approve the recommended marketing program
+
+#### 3. Question: - 
+How do annual members and casual riders use Cyclistic bikes differently?
+
+
+### Prepare
+
+#### Dataset Link
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
-## Dataset description
+#### Dataset description
 This dataset tabulates ride_id, bikes types, starting and ending time, their starting and ending stations (names, longitude and latitude measures) and customer account types. I will focus on using 2023 data for this case study.
 The data has been made available by Motivate International Inc. under license. For more details, you may refer to https://divvybikes.com/data-license-agreement. 
 
-## Variable definitions
+#### Variable definitions
 
 ride_id - This combination consists of 14 characters including numbers and letters. Example: C9BD54F578F57246, CDBD92F067FA620E
 
@@ -39,18 +56,11 @@ end_lng	- Longitude of ending station
 
 member_casual - Types of members: Member or Casual
 
+### Process
+BigQuery has been employed to efficiently handle the data processing task, Microsoft Excel is unable to accomplish due to its limitations with large datasets.
 
-##  Steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act
 
-### 1. Ask
-Define the problem: Design a new marketing strategy to maximize the number of annual memberships, thus leading the way for the company's future success
-Stakeholders: - 
-i. Lily Moreno: The director of marketing and manager
-ii. Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data
-iii. Cyclistic executive team: The detail-oriented executive team that decide whether to approve the recommended marketing program
 
-  
- 
 # Snapshot of Dashboard (Tableau)
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/aeb6d919-e1b5-4bc6-8a89-f8dd2c40a946)
 
