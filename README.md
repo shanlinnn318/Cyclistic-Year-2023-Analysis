@@ -56,6 +56,7 @@ end_lng	- Longitude of ending station
 
 member_casual - Types of members: Member or Casual
 
+
 ### Process and Analyze
 BigQuery has been employed to efficiently handle the data processing task, Microsoft Excel is unable to accomplish due to its limitations with large datasets.
 
@@ -66,7 +67,8 @@ BigQuery has been employed to efficiently handle the data processing task, Micro
    
 For more details and results, you may refer to the links above.
 
-# Share
+
+### Share
 To answer the question "How do annual members and casual riders use Cyclistic bikes differently?" that mentioned earlier, I have prepared 5 dashboards to answer this question.
 
 1. This visualization shows bikes types used in 2023 by two groups of users.
@@ -94,5 +96,25 @@ Streeter Dr & Grand Ave sees the highest volume of riders starting their rides. 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/eb256024-39e7-48b6-b9b4-b96e5685b09a)
 Most of the riders chose to end their journey at Clark St & Elm St. Casual riders often conclude their journeys near parks, museums, and recreational areas, while members tend to end their trips in proximity to residential areas and commercial districts.
 
+
+
+### Act
+Recommendations on marketing strategy:
+
+1. Highlight Membership Benefits: Emphasize the benefits of becoming an annual member, such as access to exclusive features, discounts, and priority service. Showcase how annual membership enhances the overall biking experience.
+
+2. Promote Bike Types Preferred by Members: Since classic bikes are the most popular among users, followed by electric bikes, highlight these bike types as preferred choices for annual members. Showcase the features and advantages of these bikes in marketing campaigns targeted at casual riders.
+
+3. Seasonal Promotions: Capitalize on the seasonal trends identified in the data. During the spring and summer months, when biking activity peaks, offer special promotions or discounts for annual membership sign-ups. Highlight the convenience and cost-effectiveness of having an annual membership during these high-activity seasons.
+
+4. Day and Hour Preferences: Since casual riders prefer weekend trips and evening rides, promote annual membership as a convenient solution for their leisure activities. Highlight how annual membership provides flexibility for weekend adventures and evening excursions.
+
+5. Strategic Station Placement: Highlight stations in areas frequented by casual riders, such as museums, parks, beaches, and recreational areas, and emphasize the convenience of having access to bikes through annual membership at these locations.
+
+6. Personalized Recommendations: Leverage data analysis to provide personalized recommendations to casual riders, highlighting stations, bike types, and ride times that align with their preferences and behavior patterns.
+
+7. Testimonials and Success Stories: Share testimonials and success stories from existing annual members to showcase the benefits and positive experiences of membership. Highlight how annual membership has transformed the biking experience for others and encourage casual riders to join the community.
+
+By implementing these strategies, Cyclistic can effectively target casual riders and incentivize them to convert into annual members, thereby increasing membership numbers and fostering long-term customer loyalty.
     
 
