@@ -69,16 +69,21 @@ For more details and results, you may refer to the links above.
 # Share
 To answer the question "How do annual members and casual riders use Cyclistic bikes differently?" that mentioned earlier, I have prepared 5 dashboards to answer this question.
 
-Firstly, this visualization shows bikes types used in 2023 by two groups of users.
+1. This visualization shows bikes types used in 2023 by two groups of users.
 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/aeb6d919-e1b5-4bc6-8a89-f8dd2c40a946)
-The outcome reveals that there are currently 2,738,451 active members, representing nearly 64.53% of the total user base, while the remaining 35.47% consists of casual riders.
+The outcome reveals that there are currently 2,738,451 active members, representing nearly 64.53% of the total user base, while the remaining 35.47% consists of casual riders. Classic bike has the most popularity among users and followed by the electric bike. However, only 1.78% of users use docked bikes.
 
+2. Visualization shows the total number of trips by month, day and hour.
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/5a3b0847-0f7b-4ccf-b432-2a66cc644924)
+For monthly data, both casual and member users demonstrate comparable patterns, showing increased travel during the spring and summer months (MARCH until AUGUST) and decreased activity in the winter (DECEMBER until JANUARY). Looking at the graph that indicates number of trips by day, casual and member riders shows opposite patterns. Members tend to make their ride on weekdays and casual users prefer to make their journey on weekend. When examining hourly data, a clear trend emerges: both types of users overwhelmingly prefer riding during the morning at 8am and in the evening at 5pm.
 
+3. 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/a043c5e8-d93e-4b58-8b40-aac4e6a2711a)
 
+
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/e1751338-cce4-4ba2-9ff5-9407780c112f)
+
 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/eb256024-39e7-48b6-b9b4-b96e5685b09a)
 
