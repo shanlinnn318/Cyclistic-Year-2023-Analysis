@@ -78,21 +78,17 @@ The outcome reveals that there are currently 2,738,451 active members, represent
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/5a3b0847-0f7b-4ccf-b432-2a66cc644924)
 For monthly data, both casual and member users demonstrate comparable patterns, showing increased travel during the spring and summer months (MARCH until AUGUST) and decreased activity in the winter (DECEMBER until JANUARY). Looking at the graph that indicates number of trips by day, casual and member riders shows opposite patterns. Members tend to make their ride on weekdays and casual users prefer to make their journey on weekend. When examining hourly data, a clear trend emerges: both types of users overwhelmingly prefer riding during the morning at 8am and in the evening at 5pm.
 
-3. 
+3. Visualization indicates average ride duration in 2023.
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/a043c5e8-d93e-4b58-8b40-aac4e6a2711a)
+As highlighted in the narrative of the second visualization, there's a notable uptick in ride activity for both types of users during the spring and summer months. This trend extends to the average ride duration by month (Above 20 minutes), with a substantial increase observed over the same period. And when we look at average ride duration by day, we can observe that both casual and member riders will spend more time for riding. For hourly data, between 10 am and 2 pm, users tend to embark on longer journeys during the day. Conversely, from five to eight in the morning, their trips are typically shorter in duration.
 
-
+4. This symbol map shows the total trips at starting stations in 2023. 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/e1751338-cce4-4ba2-9ff5-9407780c112f)
+Streeter Dr & Grand Ave sees the highest volume of riders starting their rides. Streeter Dr & Grand Ave is situated nearby to Jane Addams Memorial Park and the apartment building Lake Point Tower. Casual riders predominantly kick-start their trips from stations adjacent to museums, parks, beaches, harbors, and aquariums, while members opt to commence their journeys from stations proximate to universities, residential areas and commercial districts.
 
-
+5. This symbol map shows the total trips at starting stations in 2023. 
 ![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/eb256024-39e7-48b6-b9b4-b96e5685b09a)
-
-
-
-
-### [1]
-           
-### [2] 
+Most of the riders chose to end their journey at Clark St & Elm St. Casual riders often conclude their journeys near parks, museums, and recreational areas, while members tend to end their trips in proximity to residential areas and commercial districts.
 
     
 
