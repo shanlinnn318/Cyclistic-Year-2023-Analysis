@@ -73,27 +73,32 @@ To answer the question "How do annual members and casual riders use Cyclistic bi
 
 1. This visualization shows bikes types used in 2023 by two groups of users.
 
-![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/aeb6d919-e1b5-4bc6-8a89-f8dd2c40a946)
+<img width="594" alt="Bikes Types in 2023" src="https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/2f9eda6e-2ef6-4463-82dc-fc51792e557e">
+
 The outcome reveals that there are currently 2,738,451 active members, representing nearly 64.53% of the total user base, while the remaining 35.47% consists of casual riders. Classic bike has the most popularity among users and followed by the electric bike. However, only 1.78% of users use docked bikes.
 
 2. Visualization shows the total number of trips by month, day and hour.
 
-![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/5a3b0847-0f7b-4ccf-b432-2a66cc644924)
+<img width="600" alt="Total trips in 2023" src="https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/666263c4-0265-49a3-8582-3aaa848f6766">
+
 For monthly data, both casual and member users demonstrate comparable patterns, showing increased travel during the spring and summer months (MARCH until AUGUST) and decreased activity in the winter (DECEMBER until JANUARY). Looking at the graph that indicates number of trips by day, casual and member riders shows opposite patterns. Members tend to make their ride on weekdays and casual users prefer to make their journey on weekend. When examining hourly data, a clear trend emerges: both types of users overwhelmingly prefer riding during the morning at 8am and in the evening at 5pm.
 
 3. Visualization indicates average ride duration in 2023.
 
-![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/a043c5e8-d93e-4b58-8b40-aac4e6a2711a)
+<img width="596" alt="Average Ride Duration in 2023" src="https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/5867c4e2-9762-4ed7-800d-98c468bd812e">
+
 As highlighted in the narrative of the second visualization, there's a notable uptick in ride activity for both types of users during the spring and summer months. This trend extends to the average ride duration by month (Above 20 minutes), with a substantial increase observed over the same period. And when we look at average ride duration by day, we can observe that both casual and member riders will spend more time for riding. For hourly data, between 10 am and 2 pm, users tend to embark on longer journeys during the day. Conversely, from five to eight in the morning, their trips are typically shorter in duration.
 
 4. This symbol map shows the total trips at starting stations in 2023.
-   
-![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/e1751338-cce4-4ba2-9ff5-9407780c112f)
+
+<img width="591" alt="Total trips at Strating Stations" src="https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/d60b40e9-ee16-4a46-82cf-977cad4d8b56">
+
 Streeter Dr & Grand Ave sees the highest volume of riders starting their rides. Streeter Dr & Grand Ave is situated nearby to Jane Addams Memorial Park and the apartment building Lake Point Tower. Casual riders predominantly kick-start their trips from stations adjacent to museums, parks, beaches, harbors, and aquariums, while members opt to commence their journeys from stations proximate to universities, residential areas and commercial districts.
 
 5. This symbol map shows the total trips at starting stations in 2023.
-   
-![image](https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/eb256024-39e7-48b6-b9b4-b96e5685b09a)
+
+<img width="592" alt="Total Trips at Ending Stations" src="https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/assets/113488502/60ef3cb6-5b4c-4add-8f73-a9680819f91e">
+
 Most of the riders chose to end their journey at Clark St & Elm St. Casual riders often conclude their journeys near parks, museums, and recreational areas, while members tend to end their trips in proximity to residential areas and commercial districts.
 
 
