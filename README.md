@@ -63,12 +63,12 @@ member_casual - Types of members: Member or Casual
 BigQuery has been employed to efficiently handle the data processing task, Microsoft Excel is unable to accomplish due to its limitations with large datasets.
 
 1. Combine Data: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Combine%20data
-2. 
-3. Data Exploration: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Exploration
-4. 
-5. Data Cleaning: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Cleaning
-6. 
-7. Data Analysis: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Analysis
+
+2. Data Exploration: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Exploration
+
+3. Data Cleaning: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Cleaning
+
+4. Data Analysis: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Analysis
    
 For more details and results, you may refer to the links above.
 
