@@ -12,7 +12,9 @@ https://public.tableau.com/views/CyclisticYear2023Analysis/BikesTypesin2023?:lan
 
 #### 2. Stakeholders: - 
 i. Lily Moreno: The director of marketing and manager
+
 ii. Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data
+
 iii. Cyclistic executive team: The detail-oriented executive team that decide whether to approve the recommended marketing program
 
 #### 3. Question: - 
@@ -61,9 +63,12 @@ member_casual - Types of members: Member or Casual
 BigQuery has been employed to efficiently handle the data processing task, Microsoft Excel is unable to accomplish due to its limitations with large datasets.
 
 1. Combine Data: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Combine%20data
-2. Data Exploration: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Exploration
-3. Data Cleaning: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Cleaning
-4. Data Analysis: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Analysis
+2. 
+3. Data Exploration: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Exploration
+4. 
+5. Data Cleaning: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Cleaning
+6. 
+7. Data Analysis: https://github.com/shanlinnn318/Cyclistic-Year-2023-Analysis/blob/main/Cyclistic_Data%20Analysis
    
 For more details and results, you may refer to the links above.
 
